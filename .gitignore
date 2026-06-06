@@ -1,2 +1,11 @@
 # Ignore raw data files and sources
 *.csv
+data/
+
+# Ignore Python venv
+venv/
+
+# Ignore model files & simulation scripts
+models/
+results/
+run_once_resave.py
